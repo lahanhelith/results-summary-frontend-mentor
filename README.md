@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lahanhelith/results-summary-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://resonant-hotteok-60dd78.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/lahanhelith/results-summary-frontend-mentor)
+- Live Site URL: [Live Site URL](https://resonant-hotteok-60dd78.netlify.app/)
 
 ## My process
 
